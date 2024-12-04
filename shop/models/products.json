@@ -1,0 +1,12 @@
+[
+  {"id":1,"name":"Smartphone","description":"Latest model","price":699.99,"brand":"Apple","plan":"Basic Plan"},
+  {"id":2,"name":"Laptop","description":"High performance","price":1299.50,"brand":"Dell","plan":"Premium Plan"},
+  {"id":3,"name":"Tablet","description":"Portable and powerful","price":499.89,"brand":"Samsung","plan":"None"},
+  {"id":4,"name":"Smartwatch","description":"Fitness and health tracking","price":199.25,"brand":"Garmin","plan":"Basic Plan"},
+  {"id":5,"name":"Headphones","description":"Noise-cancelling","price":299.79,"brand":"Sony","plan":"None"},
+  {"id":6,"name":"Gaming Console","description":"Next-gen gaming","price":499.99,"brand":"Microsoft","plan":"Premium Plan"},
+  {"id":7,"name":"Camera","description":"Professional-grade","price":1099.78,"brand":"Canon","plan":"None"},
+  {"id":8,"name":"E-Reader","description":"Lightweight and long-lasting battery","price":129.55,"brand":"Amazon","plan":"Basic Plan"},
+  {"id":9,"name":"Smart TV","description":"4K Ultra HD","price":799.98,"brand":"LG","plan":"Premium Plan"},
+  {"id":10,"name":"Bluetooth Speaker","description":"Compact and powerful","price":149.45,"brand":"Bose","plan":"None"}
+]
